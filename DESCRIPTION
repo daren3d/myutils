@@ -1,0 +1,11 @@
+Package: myutils
+Title: Functions That I Wrote
+Version: 0.0.0.9000
+Authors@R: 
+    person("Daren", "Kuwaye", , "daren-kuwaye@uiowa.edu", role = c("aut", "cre"),
+           comment = c(ORCID = "ba/sed"))
+Description: New summary functions stolen from internet.
+License: GPL (>= 3)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
