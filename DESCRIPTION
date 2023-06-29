@@ -11,4 +11,4 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.3
 URL: https://github.com/daren3d/myutils
 BugReports: https://github.com/daren3d/myutils/issues
-Imports: kml3d
+Depends: kml3d
